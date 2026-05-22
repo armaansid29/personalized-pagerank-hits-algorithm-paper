@@ -1,4 +1,4 @@
-# personalized-pagerank-hits-algorithm-paper
+# PageRank & HITS Analysis paper
 
 This project explores the linear algebra foundations behind the PageRank and HITS algorithms through both theoretical analysis and practical implementation. The paper examines how eigenvectors, graph structure, and iterative methods drive ranking behavior in large-scale networks, with Python implementations and empirical evaluation comparing convergence, assumptions, interpretability, and real-world applications.
 
